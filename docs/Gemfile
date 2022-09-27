@@ -1,12 +1,12 @@
-# frozen_string_literal: true
+frozen_string_literal: true
 
 source "https://rubygems.org"
 
 # gem "rails"
 
-#gem "tzinfo-data"
+gem "tzinfo-data"
 
-#gem "wdm"
+gem "wdm"
 
 gem "jekyll", "~> 4.2"
 
